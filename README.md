@@ -1,4 +1,4 @@
-Link to online github page: # hadihssn.github.io
+Link to online github page: hadihssn.github.io
 
 This is a Posts App where you can post anything and everything. Its not connected to any database as of now so its only for showcasing what I learned to make.
 
